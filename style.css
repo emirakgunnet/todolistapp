@@ -75,7 +75,7 @@ body {
 
 /* js */
 .todolist {
-    margin-top: 20px;
+    margin-top: 30px;
 }
 
 .itemall {
@@ -133,12 +133,12 @@ button, .check-button, .trash-button {
 
 .creater {
     text-align: center;
-    color: black;
+    color: #c1ffe0;
     line-height: 3.8rem;
 }
 
 .link-creater {
     text-align: center;
-    color: ##105869;
-    line-height: 0.1px;
+    color: #c1ffe0;
+    line-height: 2.9rem;
 }
